@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4409'
     url: http://www.gutenberg.org/2009/agents/4409
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15185#Quiet-Talks-on-John-s-Gospel
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-02-26'
 gutenberg_type: Text
